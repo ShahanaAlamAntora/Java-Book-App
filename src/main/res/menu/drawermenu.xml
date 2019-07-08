@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/db" android:title="About"  android:icon="@drawable/ic_dashboard"/>
+    <item android:id="@+id/event" android:title="Events" android:icon="@drawable/ic_event_date_and_time_symbol"/>
+    <item android:id="@+id/search" android:title="Details" android:icon="@drawable/ic_smartphone" />
+    <item android:id="@+id/settings" android:title="Settings" android:icon="@drawable/ic_settings"/>
+    <item android:id="@+id/activities" android:title="Activities" android:icon="@drawable/ic_activities"/>
+    <item android:id="@+id/exit" android:title="Exit" android:icon="@drawable/ic_exit" />
+</menu>

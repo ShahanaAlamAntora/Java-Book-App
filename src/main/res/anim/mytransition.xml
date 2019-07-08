@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha
+xmlns:anroid="http://schemas.android.com/apk/res/android"
+anroid:fromAlpha="0.0"
+anroid:toAlpha="1.0"
+anroid:duration="2000" />

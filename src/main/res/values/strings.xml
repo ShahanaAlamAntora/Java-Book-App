@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="university">Ahsanullah University Of Science and Technology</string>
+    <string name="department">Computer Science and Engineering</string>
+
+    <string-array name="abbreviations_list_header">
+        <item>API</item>
+        <item>ALU</item>
+        <item>ASCII</item>
+        <item>AAC</item>
+        <item>BIU</item>
+        <item>BCD</item>
+        <item>BASIC</item>
+        <item>BIOS</item>
+        <item>CC</item>
+        <item>CAI</item>
+        <item>CAD</item>
+        <item>CSS</item>
+        <item>CPI</item>
+        <item>DPI</item>
+        <item>DVR</item>
+        <item>EDI</item>
+        <item>GUI</item>
+        <item>HTTP</item>
+        <item>IP</item>
+        <item>JDK</item>
+        <item>JVM</item>
+        <item>JRE</item>
+        <item>URL</item>
+
+    </string-array>
+
+    <string-array name="abbreviations_list_child">
+
+        <item>
+            Application Programming Interface
+            \n\nIn Computer Programming,an application programming interface is a set of subroutine,definitions,protocols and tools for building application software.
+        </item>
+
+        <item name ="ALU">
+            Arithmetic Logic Unit
+            \n\nAn arithmetic logic unit is a combinational digital electronic circuit that performs arithmetic and bitwise operations on integer binary numbers.
+        </item>
+
+      <item>
+            American Standard Code for Information Interchange
+            \n\nASCII is a character encoding standard for electronic.
+       </item>
+
+        <item>
+            Advanced Audio Coding
+            \n\nAdvanced Audio Coding is a proprietary audio coding standard for lossy digital audio compression.
+        </item>
+
+        <item name="BIU">
+            Bus Interface Unit
+            \n\nThe BIU provides various functions,including generation of the memory and I O addresses for the transfer of data between outside the CPU and the EU.
+        </item>
+
+        <item name="BCD">
+            Binary Coded Decimal
+            \n\nIn computing and electronic systems,binary coded decimal is a class of binary encodings of decimal numbers where each decimal digit is represented by a fixed number of bits,usually four or eight.
+        </item>
+
+        <item name="BASIC">
+           High level programming language
+            \n\nBASIC is a family of general purpose,high level programming languages whose design philosophy emphasizes ease of use.
+        </item>
+
+        <item name="BIOS">
+            Basic Input Output system
+            \n\nFor IBM PC compatible computers,BIOS is non volatile firmware used to perform hardware initialization during the booting process and to provide runtime services for operating systems and programs.
+        </item>
+
+        <item name="CC">
+           Carbon Copy
+            \n\nCarbon Copy is an email that is copied to one or more recipients.
+        </item>
+
+        <item name = "CAI">
+           Computer Assisted Instruction
+            \n\nCAI is a program of instructional material presented by means of a computer or computer systems.
+        </item>
+
+        <item name = "CAD">
+           Computer Aided Design
+            \n\nCAD is the use of computer systems to aid in the creation,modification,analysis or optimization of a design.
+        </item>
+
+        <item name = "CSS">
+           Cascading Style Sheets
+            \n\nCSS is a style sheet language used designing the presentation of a document written in a markup language.
+        </item>
+
+        <item name = "CPI">
+            Clock Cycles Per Instruction
+            \n\nCPI is one aspect of a processors performance.The average number of clock cycles per instruction for a program or program fragment.
+        </item>
+
+        <item name = "DPI">
+           Dots Per Inch
+            \n\nDPI is a measure of spatial printing or video or image scanner dot density,in particular the number of individual dots that can be placed in a line within the span of 1 inch.
+        </item>
+
+        <item name = "DVR">
+            Digital Video Recorder
+            \n\nA digital video recorder is an electronic device that records video in a digital format to a disk drive,USB flash drive,SD memory card,SSD or other local or networked mass storage device.
+        </item>
+
+        <item name = "EDI">
+            Electronic Data Interchange
+            \n\nElectronic data interchange is the concept of businesses communicating electronically certain information that was traditionally communicated on paper.
+        </item>
+
+
+
+        <item name = "GUI">
+            Graphical User Interface
+            \n\nA graphical user interface is a human computer interface,a way for humans to interact with computers that uses windows,icons and menus.
+        </item>
+
+
+        <item name = "HTTP">
+             Hypertext Transfer Protocol
+            \n\nHTTP is an application protocol for distributed,collaborative and hypermedia in formation systems.
+        </item>
+
+        <item name = "IP">
+            Internet Protocol address
+            \n\nAn  Internet Protocol address is a numerical label assigned to each device connected to a computer network that uses the internet Protocol for communication.
+        </item>
+
+        <item name = "JDK">
+            Java Development Kit
+            \n\nThe  Java Development Kit is an implementation of either one of the Jave Platform,Standard Edition,Java Platform,Enterprise Edition,or Java Platform,Micro Edition plateforms released by oracle.
+        </item>
+
+        <item name = "JVM">
+           Java Virtual Machine
+            \n\nA Java Virtual Machine is an abstract computing system machine that enables a computer to run a Java program.
+        </item>
+
+        <item name = "JRE">
+            Java Runtime Environment
+            \n\nThe Java Runtime Environment is a set of software tools for development of Java applications a Runtime Environment.
+        </item>
+
+        <item name = "URL">
+            Uniform Resource Locator
+            \n\nUniform Resource Locator is a form of URL and is a standardized naming convention for addressing documents accessible over the Internet.
+        </item>
+
+
+    </string-array>
+
+</resources>

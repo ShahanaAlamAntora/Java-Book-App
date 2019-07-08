@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:background="@drawable/ntwo"
+    tools:context="com.example.antora.splash.Main2Activity">
+
+    <Button
+
+
+        android:id="@+id/btnStart"
+        android:layout_width="100dp"
+
+        android:textStyle="bold"
+        android:layout_height="50dp"
+        android:layout_marginLeft="150dp"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:text="Next"
+        android:textColor="#1e1e1e"
+
+
+        />
+
+
+</LinearLayout>
